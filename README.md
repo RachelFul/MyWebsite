@@ -18,7 +18,7 @@ The website is one-pager and all content is contained within a single HTML file.
 📌 Each section follows a semantic structure which improves readability and accessibility.
 
 ## Technologies Used
-This website is built using standard front-end web technologies that ensure compatibility with Chrome browser and Android OS. It incorporates CSS for styling, layout management, and animations.
+This website is built using standard front-end web technologies that ensure compatibility with Windows OS, macOS, Android OS and IOS. It incorporates CSS for styling, layout management, and animations.
 
 1 HTML (HyperText Markup Language)
 <p> 2 Semantic HTML5 tags <!-- (e.g., <header>, <nav>, <section>, <footer>) --> to structure content logically </p>
@@ -64,7 +64,7 @@ This website is built using standard front-end web technologies that ensure comp
 ### Android-Friendly Layout
 1 The navigation menu switches to a vertical stack on smaller screens.
 <p> 2 Text sizes adjust dynamically for readability. </p>
-<p> 3 Buttons enlarge to be more finger-friendly (width: 90% on small screens). </p>
+<p> 3 Buttons enlarge to be more tap-friendly (width: 90% on small screens). </p>
 
 ### Additional Enhancements
 1 Optimized image loading that uses max-width: 100% to ensure images scale properly.
